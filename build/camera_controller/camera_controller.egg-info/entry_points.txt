@@ -1,3 +1,0 @@
-[console_scripts]
-camera_node = camera_controller.camera_node:main
-
